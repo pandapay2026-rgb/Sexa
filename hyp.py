@@ -49,7 +49,7 @@ from telegram import Update, ReplyKeyboardMarkup, KeyboardButton, InlineKeyboard
 from telegram.ext import Application, CommandHandler, MessageHandler, filters, ContextTypes, ConversationHandler, CallbackQueryHandler
 
 # ==================== CONFIGURATION ====================
-BOT_TOKEN = "8807958179:AAHi1uw34bWh4gkXwgCH29otr_jd2ypmMYs"
+BOT_TOKEN = "8807958179:AAG_4lWXRSe2yi2C99y-DfJypZYF0T4PDOA"
 
 # ===== MULTI-OWNER SETUP =====
 OWNER_ID = 8351204457            # Primary owner
